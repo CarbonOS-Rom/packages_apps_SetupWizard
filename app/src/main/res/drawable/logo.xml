@@ -1,17 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-     SPDX-FileCopyrightText: The LineageOS Project
-     SPDX-License-Identifier: Apache-2.0
+<!-- Copyright (C) 2026 CarbonOS
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
 -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="512dp"
-    android:height="260dp"
-    android:viewportWidth="512"
-    android:viewportHeight="260">
+    android:width="240dp" android:height="131dp"
+    android:viewportWidth="547" android:viewportHeight="298"
+    android:tint="?android:attr/textColorPrimary">
 
-    <path
-        android:fillColor="@color/lineage_accent"
-        android:pathData="M416,128a39.92,39.92,0,0,0-31.11,14.87l-1.5-.6A294.79,294.79,0,0,0,336,128.14s0-.09,0-.14a80,80,0,1,0-160,0s0,.09,0,.13l-1.72
-.38 a293.48,293.48,0,0,0-45.67,13.76l-1.5 .6
-a40,40,0,1,0,7.39,14.28h0a277.33,277.33,0,0,1,43.1-13,80,80,0,0,0,156.73,0,277.3,277.3,0,0,1,43.11,13h0A40,40,0,1,0,416,128ZM96,192a24,24,0,1,1,24-24A24,24,0,0,1,96,192Zm160,0a64,64,0,1,1,64-64A64.07,64.07,0,0,1,256,192Zm160,0a24,24,0,1,1,24-24A24,24,0,0,1,416,192ZM288,128a32,32,0,1,1-32-32A32,32,0,0,1,288,128Z" />
+    <group android:translateX="-266.7" android:translateY="-68">
+        <path android:pathData="M540,87 L607.5,126 L607.5,204 L540,243 L472.5,204 L472.5,126 Z" android:strokeColor="@android:color/white"
+            android:strokeWidth="10" android:strokeLineJoin="round" />
+        <path android:pathData="M500,165 A40,40 0 1,1 580,165 A40,40 0 1,1 500,165 Z" android:strokeColor="@android:color/white"
+            android:strokeWidth="7" />
+        <path android:pathData="M529,87 A11,11 0 1,1 551,87 A11,11 0 1,1 529,87 Z M596.5,126 A11,11 0 1,1 618.5,126 A11,11 0 1,1 596.5,126 Z M596.5,204 A11,11 0 1,1 618.5,204 A11,11 0 1,1 596.5,204 Z M529,243 A11,11 0 1,1 551,243 A11,11 0 1,1 529,243 Z M461.5,204 A11,11 0 1,1 483.5,204 A11,11 0 1,1 461.5,204 Z M461.5,126 A11,11 0 1,1 483.5,126 A11,11 0 1,1 461.5,126 Z" android:fillColor="@android:color/white" />
+
+        <group android:translateX="278.7" android:translateY="292"
+            android:scaleX="0.62" android:scaleY="0.62">
+            <path android:pathData="M68.3,14.6 A40,50 0 1,0 68.3,85.4" android:strokeColor="@android:color/white"
+                android:strokeAlpha="1" android:strokeWidth="13"
+                android:strokeLineCap="round" android:strokeLineJoin="round" />
+        </group>
+        <group android:translateX="345.6" android:translateY="292"
+            android:scaleX="0.62" android:scaleY="0.62">
+            <path android:pathData="M0,100 L40,0 L80,100 M15,62 L65,62" android:strokeColor="@android:color/white"
+                android:strokeAlpha="1" android:strokeWidth="13"
+                android:strokeLineCap="round" android:strokeLineJoin="round" />
+        </group>
+        <group android:translateX="412.6" android:translateY="292"
+            android:scaleX="0.62" android:scaleY="0.62">
+            <path android:pathData="M0,100 L0,0 L45,0 A27,27 0 0,1 45,54 L0,54 M40,54 L75,100" android:strokeColor="@android:color/white"
+                android:strokeAlpha="1" android:strokeWidth="13"
+                android:strokeLineCap="round" android:strokeLineJoin="round" />
+        </group>
+        <group android:translateX="476.4" android:translateY="292"
+            android:scaleX="0.62" android:scaleY="0.62">
+            <path android:pathData="M0,50 L44,50 A25,25 0 0,0 44,0 L0,0 L0,100 L48,100 A25,25 0 0,0 48,50" android:strokeColor="@android:color/white"
+                android:strokeAlpha="1" android:strokeWidth="13"
+                android:strokeLineCap="round" android:strokeLineJoin="round" />
+        </group>
+        <group android:translateX="540.3" android:translateY="292"
+            android:scaleX="0.62" android:scaleY="0.62">
+            <path android:pathData="M40,0 A40,50 0 1,1 40,100 A40,50 0 1,1 40,0 Z" android:strokeColor="@android:color/white"
+                android:strokeAlpha="1" android:strokeWidth="13"
+                android:strokeLineCap="round" android:strokeLineJoin="round" />
+        </group>
+        <group android:translateX="607.3" android:translateY="292"
+            android:scaleX="0.62" android:scaleY="0.62">
+            <path android:pathData="M0,100 L0,0 L75,100 L75,0" android:strokeColor="@android:color/white"
+                android:strokeAlpha="1" android:strokeWidth="13"
+                android:strokeLineCap="round" android:strokeLineJoin="round" />
+        </group>
+
+        <group android:translateX="691" android:translateY="292"
+            android:scaleX="0.62" android:scaleY="0.62">
+            <path android:pathData="M40,0 A40,50 0 1,1 40,100 A40,50 0 1,1 40,0 Z" android:strokeColor="@android:color/white"
+                android:strokeAlpha="0.55" android:strokeWidth="13"
+                android:strokeLineCap="round" android:strokeLineJoin="round" />
+        </group>
+        <group android:translateX="757.9" android:translateY="292"
+            android:scaleX="0.62" android:scaleY="0.62">
+            <path android:pathData="M68,18 C60,4 48,0 35,0 C15,0 3,12 3,26 C3,44 20,48 35,51 C52,54 68,58 68,76 C68,90 55,100 35,100 C20,100 7,94 1,82" android:strokeColor="@android:color/white"
+                android:strokeAlpha="0.55" android:strokeWidth="13"
+                android:strokeLineCap="round" android:strokeLineJoin="round" />
+        </group>
+    </group>
 </vector>

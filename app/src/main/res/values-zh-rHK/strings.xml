@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      SPDX-FileCopyrightText: 2013-2015 The CyanogenMod Project
-     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-FileCopyrightText: The CarbonOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
@@ -26,7 +26,7 @@
     <string name="setup_location">定位服務</string>
     <string name="location_access_summary"><b>允許您許可的應用程式</b>使用您的定位資訊。可能包括您目前和過去的位置。</string>
     <string name="update_recovery_warning">Recovery 模式將於完成初始設定後更新。如想保留現有版本，請停用此功能。</string>
-    <string name="services_pp_explanation">這些服務旨在擴充您的裝置功能。相關資料將根據 <xliff:g id="name" example="LineageOS">%1$s</xliff:g> 的私隱政策使用。</string>
+    <string name="services_pp_explanation">這些服務旨在擴充您的裝置功能。相關資料將根據 <xliff:g id="name" example="CarbonOS">%1$s</xliff:g> 的私隱政策使用。</string>
     <string name="services_find_privacy_policy">您可以在其他裝置上瀏覽以下網址以閱讀私隱政策：</string>
     <string name="services_os_nav_keys_label"><b>使用虛擬按鍵</b>而非實體按鍵。</string>
 </resources>
